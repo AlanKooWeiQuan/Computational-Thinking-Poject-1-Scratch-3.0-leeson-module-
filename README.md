@@ -1,4 +1,4 @@
-# Scratch 3.0 lesson module (computational thinking project 1)
+# Scratch 3.0 lesson module (computational thinking project)
 
 - lesson module is built by using software Scratch 3.0 (code block)
 - topic is introduction to computer science
